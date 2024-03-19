@@ -1,2 +1,2 @@
 My name is Camille but you can call me Cam ! 
-<i class="fa-solid fa-leaf"></i> 
+I used to be a primary-school teacher and now am a fullstack developer
