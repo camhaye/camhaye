@@ -5,4 +5,4 @@
 🚂 An avid coder, I chose to take the Le Wagon Bootcamp course as part of a professional reconversion, in order to find a working environment that matches my aspirations and values.<br>
 <h5>Technical skills</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,html,css,bootstrap,github,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,git,js,html,css,bootstrap,github,heroku)](https://skillicons.dev)
